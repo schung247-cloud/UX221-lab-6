@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/i-like-lasagna/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/i-like-pizza/
         </loc>
     </url>
     <url>
@@ -12,12 +17,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/favorite-food-blog/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/kadonpatel/
         </loc>
     </url>
     <url>
