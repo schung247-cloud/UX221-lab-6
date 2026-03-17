@@ -1,1 +1,30 @@
 [16-Mar-2026 23:10:48 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-lab-6/.wordpress/wp-includes/pluggable.php on line 1721
+[17-Mar-2026 00:02:39 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Mar-2026 00:02:39 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Mar-2026 00:05:01 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Mar-2026 00:15:48 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:15:49 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:15:54 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:15:55 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 349
+[17-Mar-2026 00:15:55 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655
+[17-Mar-2026 00:15:57 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:08 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:19 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:22 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 349
+[17-Mar-2026 00:16:22 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655
+[17-Mar-2026 00:16:29 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:39 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:49 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:16:59 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:17:09 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:17:20 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:18:23 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 349
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 349
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 349
+[17-Mar-2026 00:18:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655
+[17-Mar-2026 00:18:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 102400 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/admin.php on line 65
+[17-Mar-2026 00:18:37 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-admin/includes/template.php on line 125
+[17-Mar-2026 00:18:37 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX221-lab-6/.wordpress/wp-includes/functions.php on line 655

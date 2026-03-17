@@ -22,7 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/food-favs/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/food/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/lesana/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/fav/
         </loc>
     </url>
     <url>
