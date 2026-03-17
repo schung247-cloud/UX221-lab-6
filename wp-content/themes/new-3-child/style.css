@@ -1,0 +1,11 @@
+/*
+Theme Name:     new-3-child
+Description:    
+Author:         SoloWordpress
+Template:       generatepress
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+div.content-area {
+  background-color: #f18414;
+}
